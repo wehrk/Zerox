@@ -19,4 +19,4 @@ Zerox : UGen {
 // 0 – triggers on zero-crossings
 // 1 - calculates number of zero-crossings per fixed amount of time
 // 2 - sequencer mode
-// сfreq is a frequency of update of a counting period
+// сfreq is an update frequency of a counting period
