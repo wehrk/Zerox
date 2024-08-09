@@ -1,5 +1,4 @@
 // triggers on zero-crossings and calculates number of zero-crossings per fixed amount of time
-// v.1
 
 Zerox : UGen {
 
